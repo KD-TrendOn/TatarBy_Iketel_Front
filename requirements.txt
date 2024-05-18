@@ -1,0 +1,12 @@
+python-dotenv
+langsmith 
+langchain 
+langchain-openai 
+langchain-core 
+langchain-community 
+langchain-experimental 
+langgraph 
+openai
+gino
+SQLAlchemy
+loguru
